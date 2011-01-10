@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
+    <version>0.1</version>
+    <url>http://localhost/elasticmonitor/air_updater_flex.air</url>
+    <description><![CDATA[
+         first release.  
+  ]]></description>
+</update>
