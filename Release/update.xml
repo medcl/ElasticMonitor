@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-    <version>1.1</version>
-    <url>http://github.com/medcl/ElasticMonitor/raw/master/Release/packages/ElasticMonitor_v1.1.air</url>
+    <version>1.2</version>
+    <url>http://github.com/medcl/ElasticMonitor/raw/master/Release/packages/ElasticMonitor_v1.2.air</url>
     <description><![CDATA[
          first release.  
   ]]></description>
